@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "type": "email",
+      "prefix": "mailto:",
+      "value": "abhijeetk829@gmail.com"
+    },
+    {
+      "type": "whatsapp",
+      "prefix": "https://wa.me/",
+      "value": "+919600873296"
+    },
+    {
+      "type": "linkedin",
+      "prefix": "",
+      "value": "https://www.linkedin.com/in/abhijeetkumar829/"
+    },
+    {
+      "type": "instagram",
+      "prefix": "",
+      "value": "https://instagram.com/abhijeetk829"
+    }
+  ]
+}

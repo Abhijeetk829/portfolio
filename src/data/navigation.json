@@ -1,0 +1,58 @@
+{
+  "navigation": [
+    {
+      "title": "home",
+      "path": "/",
+      "children": [
+        { "title": "About", "path": "about" },
+        { "title": "Personal", "path": "personal" },
+        { "title": "Professional", "path": "professional" },
+        { "title": "Achievements", "path": "achievements" }
+      ]
+    },
+    {
+      "title": "creative",
+      "path": "/creative",
+      "children": [
+        { "title": "Models", "path": "models" },
+        { "title": "Renders", "path": "visualizations" },
+        { "title": "Products", "path": "engineering" },
+        { "title": "Interiors", "path": "interiors" },
+        { "title": "Digital Arts", "path": "digital" },
+        { "title": "Illustrations", "path": "sketching" },
+        { "title": "Photography", "path": "photography" },
+        { "title": "Videos", "path": "videos" },
+        { "title": "Music", "path": "music" }
+      ]
+    },
+    {
+      "title": "code",
+      "path": "/code",
+      "children": [
+        { "title": "Spatial Apps", "path": "spatial" },
+        { "title": "VR Apps", "path": "vr" },
+        { "title": "Tours", "path": "tours" },
+        { "title": "Websites", "path": "websites" }
+      ]
+    },
+    {
+      "title": "interests",
+      "path": "/interests",
+      "children": [
+        { "title": "Games", "path": "games" },
+        { "title": "Sports", "path": "sports" },
+        { "title": "Travel", "path": "travel" },
+        { "title": "Cuisine", "path": "cuisine" },
+        { "title": "Books", "path": "books" }
+      ]
+    },
+    {
+      "title": "thoughts",
+      "path": "/thoughts",
+      "children": [
+        { "title": "Podcasts", "path": "podcasts" },
+        { "title": "Blogs", "path": "blogs" }
+      ]
+    }
+  ]
+}
